@@ -160,6 +160,8 @@ h3 { font-size: 1.24rem; }
 
 .abstract { margin-top: 3.25rem; }
 .abstract p { max-width: 780px; }
+.prose { margin-top: 3.25rem; }
+.prose p { max-width: 780px; }
 .keywords { margin-top: 2rem; color: var(--muted); font-size: .92rem; }
 
 .site-footer { border-top: 1px solid var(--line); background: var(--wash); }
