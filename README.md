@@ -1,4 +1,4 @@
-# Christine Hähner-Murdock — AI Safety Beyond the Single Request
+# Christine Hähner-Murdock — Independent AI Research and Collaboration
 
 Static scholarly site for [christine-haehner-murdock.github.io](https://christine-haehner-murdock.github.io/).
 
