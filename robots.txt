@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://christine-haenhner-murdock.github.io/sitemap.xml
