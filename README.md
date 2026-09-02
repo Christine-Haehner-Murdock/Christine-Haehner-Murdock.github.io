@@ -1,4 +1,4 @@
-# Christine Hähner-Murdock — Relational AI Safety Research
+# Christine Hähner-Murdock — AI Safety Beyond the Single Request
 
 Static scholarly site for [christine-haehner-murdock.github.io](https://christine-haehner-murdock.github.io/).
 
